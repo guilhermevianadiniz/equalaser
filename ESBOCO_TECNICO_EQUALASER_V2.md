@@ -1,7 +1,5 @@
 # ESBOÇO TÉCNICO AVANÇADO DO PROJETO: EQUALASER (v2.5)
 **Sistema de Vigilância e Metrologia em Campo a Laser Offline para Conjuntos Motor Elétrico × Bomba Centrífuga**  
-*Referência da Demanda: Plataforma Saga SENAI de Inovação — Demanda da Indústria #13821*  
-*Instituição: SENAI CIMATEC (Bahia)*  
 
 ---
 

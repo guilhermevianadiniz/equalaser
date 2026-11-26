@@ -2,7 +2,6 @@
  * =====================================================================================
  * PROJETO: EQUALASER - Sistema de Monitoramento a Laser Offline (Carcaça-a-Carcaça)
  * VERSÃO: 2.5.0 - Edição Industrial Avançada (Metrologia & Alta Disponibilidade)
- * REFERÊNCIA: Demanda Saga SENAI CIMATEC #13821
  * =====================================================================================
  * 
  * MELHORIAS IMPLEMENTADAS NESTA VERSÃO:

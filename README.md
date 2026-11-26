@@ -1,8 +1,6 @@
 # EQUALASER 🎯⚡
 
-> **Sistema de Vigilância e Metrologia Preditiva a Laser Offline para Conjuntos Motor Elétrico × Bomba Centrífuga**  
-> *Plataforma Saga SENAI de Inovação — Demanda da Indústria #13821*  
-> *Escola: SENAI CIMATEC (Salvador - BA)*
+> **Sistema de Vigilância e Metrologia Preditiva a Laser Offline para Conjuntos Motor Elétrico × Bomba Centrífuga**
 
 [![Live Demo](https://img.shields.io/badge/Demo%20Online-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://guilhermevianadiniz.github.io/equalaser/)
 [![ESP32 Compatible](https://img.shields.io/badge/Hardware-ESP32%20FreeRTOS-blue?style=for-the-badge&logo=espressif)](https://github.com/guilhermevianadiniz/equalaser)
@@ -63,7 +61,7 @@ equalaser/
 ├── index.html                   # Interface Web completa (Dashboard, SVG dinâmico, Laudo e Simulador)
 ├── firmware_esp32.ino           # Firmware em C/C++ para ESP32 (FreeRTOS, WebServer, LittleFS e ADC)
 ├── ESBOCO_TECNICO_EQUALASER_V2.md # Memorial de cálculo, BOM industrial e arquitetura de engenharia
-├── demanda.docx                 # Especificação da Demanda da Indústria #13821 (SENAI)
+├── demanda.docx                 # Especificação original da demanda industrial
 └── README.md                    # Documentação principal do projeto
 ```
 
@@ -104,5 +102,4 @@ equalaser/
 ## 👥 Autoria e Licença
 
 - **Desenvolvedor:** Guilherme Viana Diniz ([@guilhermevianadiniz](https://github.com/guilhermevianadiniz))
-- **Instituição:** SENAI CIMATEC — Salvador, BA
 - **Licença:** MIT License (Código aberto para fins educacionais e de pesquisa).
