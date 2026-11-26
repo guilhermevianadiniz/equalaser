@@ -1,0 +1,16 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Arduino / ESP32 build artifacts
+build/
+*.bin
+*.elf
+*.hex
+
+# VS Code / IDE settings
+.vscode/
+.idea/
