@@ -4,6 +4,11 @@
 > *Plataforma Saga SENAI de Inovação — Demanda da Indústria #13821*  
 > *Escola: SENAI CIMATEC (Salvador - BA)*
 
+[![Live Demo](https://img.shields.io/badge/Demo%20Online-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://guilhermevianadiniz.github.io/equalaser/)
+[![ESP32 Compatible](https://img.shields.io/badge/Hardware-ESP32%20FreeRTOS-blue?style=for-the-badge&logo=espressif)](https://github.com/guilhermevianadiniz/equalaser)
+
+🌐 **Acesse a demonstração interativa online:** [https://guilhermevianadiniz.github.io/equalaser/](https://guilhermevianadiniz.github.io/equalaser/)
+
 ---
 
 ## 📌 Visão Geral do Projeto
